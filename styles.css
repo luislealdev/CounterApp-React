@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body, html{
+    color: white;
+    background-color: #21232A;
+    font-size: 1.3rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 40px;
+    text-align: center;
+    background-color: rgb(69, 69, 255);
+}
+pre{
+    font-size:4vw;
+}
+h2{
+    font-size: 5rem;
+}
+button{
+    font-size: 2rem;
+    padding: 2vw;
+    margin: 2vw;
+    border-radius: 5vw;
+    background-color:white;
+    border-color: blue;
+}
